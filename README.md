@@ -36,6 +36,10 @@ The dataset and the collection procedures is available on [kaggle datasets](http
 
 This code was written for educational purposes as a part of [Omdena challenge](https://omdena.com/chapter-challenges/high-school-thanaweya-amma-data-analysis/).
 
+## Future
+
+The project has matured enough to be merged with the main repo of [Omdena project](https://github.com/OmdenaAI/giza-chapter-high-school-final-exams/tree/main/src/tasks/task-4-Deliver-the-insights-and-finalize-the-project), where further development will take place.
+
 ## Auther
 
 [M. A. Ali](https://www.linkedin.com/in/mohamedahmedx2/)
